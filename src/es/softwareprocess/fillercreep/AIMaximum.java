@@ -20,5 +20,15 @@ public class AIMaximum implements AI {
         }
         return stuff[maxstuff];
     }
-
-}
+    
+    public void MasterAI(String cores) {
+    	//TODO auto generated method stub
+    }
+    
+    public void SecondBrain(int power) {
+    	//TODO auto generated method stub
+    }
+    
+    public int iWantZero(){
+    	return 0;
+    }
