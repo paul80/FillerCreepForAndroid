@@ -1,5 +1,10 @@
 package es.softwareprocess.fillercreep;
 
+public interface AI {
+	public FundamentalStuff evaluate(int playernumber,fillercreep);
+	
+	public void MasterAi(String cores);
+}
 public class AIMaximum implements AI {
 
     public FundamentalStuff evaluate(int playernumber, FillerCreep fillerCreep) {
