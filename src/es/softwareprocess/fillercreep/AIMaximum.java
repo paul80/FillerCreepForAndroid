@@ -32,4 +32,9 @@ public class AIMaximum implements AI {
     public int iWantZero(){
     	return 0;
     }
+    
+    public int iWantTwo() {
+    	return 0;
+    }
+    
 }
