@@ -39,6 +39,8 @@ public class AIMaximum implements AI {
     public int adbb() {
     	return 0;
     }
+    public int iWantThree() {
+    	return 0;
     }
     
 }
